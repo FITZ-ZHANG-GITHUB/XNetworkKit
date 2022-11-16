@@ -1,0 +1,16 @@
+PODS:
+  - XNetworkKit (0.1.0)
+
+DEPENDENCIES:
+  - XNetworkKit (from `../`)
+
+EXTERNAL SOURCES:
+  XNetworkKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XNetworkKit: 3be383b6423d3fc7222acfe0bcfc5b8acbc32824
+
+PODFILE CHECKSUM: baec4a0a96ac1565954dc0fed58e688f0c6d9809
+
+COCOAPODS: 1.11.3

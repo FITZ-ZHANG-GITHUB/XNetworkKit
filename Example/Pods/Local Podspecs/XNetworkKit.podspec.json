@@ -1,0 +1,22 @@
+{
+  "name": "XNetworkKit",
+  "version": "0.1.0",
+  "summary": "A short description of XNetworkKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Fei Zhang/XNetworkKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Fei Zhang": "fitz-zhang@mail.com"
+  },
+  "source": {
+    "git": "https://github.com/Fei Zhang/XNetworkKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "XNetworkKit/Classes/**/*"
+}
